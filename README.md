@@ -1,4 +1,4 @@
-# LLM Code Deployment Project
+# LLM Code Deployment Project- TDS Project 1
 
 ## Overview
 This project builds, deploys, and updates apps using a Large Language Model (LLM). It handles requests, generates code, deploys to GitHub Pages, and revises the app based on evaluation feedback.
