@@ -3,7 +3,7 @@
 ## Overview
 This project builds, deploys, and updates apps using a Large Language Model (LLM). It handles requests, generates code, deploys to GitHub Pages, and revises the app based on evaluation feedback.
 
-## Features
+## Features of this project
 - Receive and verify app requests
 - Generate app code with LLM assistance
 - Deploy app to GitHub Pages
